@@ -29,8 +29,6 @@ const Gallery = () => {
           </Stage>
         </PresentationControls>
       </Canvas>
-
-      <div>Hello</div>
     </div>
   );
 };
